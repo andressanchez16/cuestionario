@@ -1,11 +1,19 @@
 1.- En tus palabras, ¿Qué es internet?
-Es una conexión entre las computadoras por medio inalambrico y con servidores online
+Es una conexión de redes operadas independientemente entre las computadoras por medio inalambrico.
 
 2.- Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Es atraves de información binaria, electricidad, luz y ondas de radio
 
 3.- ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+De el dispositivo al wifi al internet O isp que conecta a billones de redes, cada dispositivo tiene una dirección ip que es enviada a otros dispositivos (internet del pais- internet de la region- subredes- dispositivo).
+
 4.- Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Usa el DNS para buscar los nombres principales y obtener la direccion ip para conectar la computadora al destino en este caso spotify.
+
 5.- Describe los protocolos que existen en internet, en específico HTTP y HTML
+
 6.- En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
 7.- En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+
 8.- ¿Cómo funciona la búsqueda de google?
